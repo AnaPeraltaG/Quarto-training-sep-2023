@@ -1,9 +1,11 @@
 ---
 title: "Folder"
 ---
+
 Hi, Ana lu here
 
 ```{r}
-1 + 1
-```
+library (tidyverse)
 
+mtcars %>% slice(1)
+```
