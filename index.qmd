@@ -1,8 +1,8 @@
 ---
-title: "Folder"
+title: "Ana Lu's website"
 ---
 
-Hi, Ana lu here
+Hi, Ana lu here. Trying to create a website :)
 
 ```{r}
 library (tidyverse)
