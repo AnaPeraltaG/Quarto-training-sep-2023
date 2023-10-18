@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "Bio"
 ---
 
-About this site
+-   <div>
 
-```{r}
-1 + 1
-```
+    </div>
+
+-   I love my dogs.
+
+-   And I love chocolate
